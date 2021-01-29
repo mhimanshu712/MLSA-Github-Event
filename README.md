@@ -1,4 +1,4 @@
-# MLSA Git & Github-Event
+# MLSA Git & Github Event
 
 ## Installing Git :space_invader:
 #### Download: https://git-scm.com/downloads
