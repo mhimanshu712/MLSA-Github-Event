@@ -24,7 +24,8 @@
 #### Now click on the *_Compare & pull request_* button
 <img width="500pc" src="http://darkstars.coffeecup.com/mlsa/5.jpg">
 
-#### Make the request and you are done!
+#### Make the request, wait for it to get reviewed, and then you can see your name on [*this site*](https://mhimanshu712.github.io/MLSA-Github-Event)
+
 
 <br><br>
 ## Installing Git :space_invader:
