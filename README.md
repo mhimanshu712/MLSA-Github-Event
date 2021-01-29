@@ -1,5 +1,9 @@
 # MLSA Git & Github-Event
 
+## Installing Git
+#### Download: https://git-scm.com/downloads
+
+<br> <br>
 ## Presentation Slides :floppy_disk:
 
 <br><br>
